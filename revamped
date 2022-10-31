@@ -59,7 +59,7 @@ new = new * CFrame.new(-speed,0,0)
 speed=speed+0
 end
 if speed>10 then
-speed=15
+speed=25
 end
 pos.position=new.p
 if keys.w then
